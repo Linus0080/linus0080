@@ -5,11 +5,17 @@
 
 
 
-Undergraduate student at NTIT, Majored in Digital media, Having passion for everying tech, UI design, photography, and music.
+Undergraduate student at NTIT, Majored in Digital media, Passionate about everying tech, UI design, photography, and music.
 
-## ⌨️Worked language for me
+## ⌨️Working language for me
 
 - [x] Currently only C
+
+## 🌱Currently learning
+
+- [ ] Python
+- [ ] ~~JavaScript~~
+- [ ] How to be cute
 
 ## 📮 How to reach me
 
