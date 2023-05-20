@@ -7,9 +7,10 @@
 
 Undergraduate student at NTIT, Majored in Digital media, Passionate about everying tech, UI design, photography, and music.
 
-## ⌨️Working language for me
+## ⌨️Working language
 
-- [x] Currently only C
+- [x] C
+- [x] Python (sort of)
 
 ## 🌱Currently learning
 
