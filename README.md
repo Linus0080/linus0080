@@ -1,6 +1,8 @@
 # Hi there 👋
 
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Linus0080&show_icons=true&count_private=true&theme=jolly&icon_color=5CBDD8&bg_color=10,123175,5B2749&hide_title=true&hide_border=true">
+
 
 
 
@@ -9,7 +11,6 @@ Undergraduate student at NTIT, Majored in Digital media, Passionate about everyi
 
 ## ⌨️Working language
 
-- [x] C
 - [x] Python (sort of)
 
 ## 🌱Currently learning
